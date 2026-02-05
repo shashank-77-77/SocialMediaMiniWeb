@@ -32,7 +32,6 @@ FRONTEND (React + Vite)
 - Axios for HTTP requests
 - Socket.io client for real-time chat
 - Dev Port: 5173
-- Prod Port: 80 (via NGINX)
 
 BACKEND (Node.js / Express)
 - Authentication & Authorization (JWT)
