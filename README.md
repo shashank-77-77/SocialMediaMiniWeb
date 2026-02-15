@@ -1,4 +1,4 @@
-MERN Social Media Platform with .NET AI Service
+MERN Social Media Platform with .NET AI Services
 ================================
 Deployment at Render - https://mern-social-4-ufh7.onrender.com/login
 ================================
